@@ -1,0 +1,18 @@
+/*
+● In The Name Of God 
+● Source 》 Anti Spem Modir Grop
+● Developer 》 Reza Valikhani
+● website 》 http://www.sourcesaaz.ir/
+● Channel 》 @SourceSaaz
+*/
+﻿
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 900;
+	src: url('IS.eot');
+	src: url('IS.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('IS.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('IS.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('IS.ttf') format('truetype');
+}
